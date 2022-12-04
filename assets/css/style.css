@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: arvo, sans-serif;
+    font-family: Arvo, Raleway;
     font-weight: 400;
+    color: orange;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Arvo, Raleway;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: darkorange;
+}
+
+#logo {
+    float: left;
+    font-size: 290%;
 }
