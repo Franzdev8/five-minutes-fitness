@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 290%;
+    margin-left: 40px;
 }
 
 /* navigation links */
