@@ -107,4 +107,24 @@ footer {
     color: orange;
 }
 
+/* us image */
+
+#us-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#us-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/us-image.jpg') no-repeat center center;
+}
+
+/* about us */
+
+#about-us {
+    margin-left: 40px;
+}
+
 
