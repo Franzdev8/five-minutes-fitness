@@ -77,15 +77,6 @@ h1, h2 {
     margin-left: 40px;
 }
 
-/* bottom image */
-     
-#bottom-image {
-    height: 600px;
-    width: 100%;
-    background: url('../images/bottom-image.jpg') no-repeat center center;
-
-}
-
 /* footer */
 
 footer {
@@ -105,6 +96,10 @@ footer {
     margin-top: 1%;
     padding: 5%;
     color: orange;
+}
+
+#contact {
+   text-align: center;
 }
 
 /* us image */
@@ -127,7 +122,7 @@ footer {
     margin-left: 40px;
 }
 
-/* Form */
+/*
 
 .form-section {
     clear: left;
@@ -139,7 +134,7 @@ footer {
 
 .signup-form {
     margin: 150px 10% 0 0;
-    color: #fff;
+    color: orange;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
@@ -148,13 +143,13 @@ footer {
 }
 
 .signup-form > h2 {
-    color: #fafafa;
+    color: orange;
     margin-bottom: 20px;
 }
 
 .text-input {
     background: transparent;
-    color: #fafafa;
+    color: orange;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -163,7 +158,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: orange;
 }
 
 .join-button {
@@ -172,12 +167,71 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: orange;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
+    background-color: orange;
     color: #f16c6b;
+}
+
+*/
+
+/* Form */
+
+.form-section {
+    clear: left;
+    /*
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    */
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: orange;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color: orange;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: orange;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: orange;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: orange;
+    color: orange;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: orange;
+    color: orange;
 }
