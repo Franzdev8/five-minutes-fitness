@@ -76,6 +76,7 @@ h1, h2 {
 
 #community-culture  {
     margin-left: 40px;
+    margin-right: 40px;
 }
 
 /* footer */
@@ -126,6 +127,7 @@ footer {
 
 #about-us {
     margin-left: 40px;
+    margin-right: 40px;
 }
 
 
@@ -199,6 +201,11 @@ footer {
     p {
         width: 100%;
         padding: 0;
+        margin-right: 40px;
+    }
+
+    #about-us {
+        margin-right: 40px;
     }
 
 }
@@ -214,6 +221,15 @@ footer {
         margin-bottom: 30px;
         line-height: 25px;
     }
-    
 
+    p {
+        width: 100%;
+        padding: 0;
+        margin-right: 40px;
+    }
+
+    #about-us {
+        margin-right: 40px;
+    }
+    
 }
