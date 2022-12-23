@@ -80,6 +80,8 @@ h1, h2 {
 #community-culture  {
     margin-left: 40px;
     margin-right: 40px;
+    background-color: lightcyan;
+
 }
 
 /* footer */
@@ -108,9 +110,13 @@ footer {
    text-align: center;
 }
 
+/*
+
 #adress {
-   margin-bottom: 100px; 
+   margin-bottom: 30%; 
 }
+
+*/
 
 /* us image */
 
@@ -133,6 +139,7 @@ footer {
 #about-us {
     margin-left: 40px;
     margin-right: 40px;
+    background-color: lightcyan;
 }
 
 
