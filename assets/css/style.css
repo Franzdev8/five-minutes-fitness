@@ -59,6 +59,7 @@ h1, h2 {
 
 /* hero image */
 
+
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -69,6 +70,8 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
+    object-fit: contain;
+    background-size: cover;
 
 }
 
@@ -121,6 +124,8 @@ footer {
     height: 600px;
     width: 100%;
     background: url('../images/us-image.jpg') no-repeat center center;
+    object-fit: contain;
+    background-size: cover;
 }
 
 /* about us */
