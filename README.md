@@ -1,8 +1,10 @@
-# Love Running
+Five Minutes Fitness
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Five Minutes Fitness is a website providing short workouts for a community with a tight time schedule.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+The website is aimed at people who want effective and efficient workouts for the body, mind and soul. All workouts consit of a four minute bodywheight and a one minute mindfullness workout and are sent via link to the user completly for free.
+
+On the homepage users will find informations about the concept of the site as well as an overview about the creators of the self-development service. It is also possible to sign up to the free fitness service from there.
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
