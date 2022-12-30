@@ -6,34 +6,32 @@ The website is aimed at people who want effective and efficient workouts for the
 
 On the homepage users will find informations about the concept of the site as well as an overview about the creators of the self-development service. It is also possible to sign up to the free fitness service from there.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+assets/images/am-I-responsive.PNG
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
-
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+At the left top of the page there is the website logo FIVE MINUTES FITNESS that links to the top of the home page.
+At the right top of the page (when you are looking on a smaller device, beneath the logo) there are links to Home, About Us and Sign Up. With those you can navigate to different pages on the website. 
+Screen shots of logo and menu links are below.
+In the footer on the bottom of the page  are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+assets/images/logo-and-navigation-bar.PNG
 
-- __The landing page image__
+The landing page picture
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The home section of the page includes a image of a woman and a man working out together.
+  - The concept of the website is supposed to be made visible by this.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+assets/images/hero-image.jpg
 
-- __Club Ethos Section__
+For your body, mind and soul section
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+This section provides the informations about the concept and the conditons about the website.
+The explinations of the concept give a detailed about the free fitness-service.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+assets/images/community-culture-text.PNG
 
 - __Meetup Times section__
 
