@@ -39,7 +39,7 @@ assets/images/community-culture-text.PNG
   - The footer is of use for the visitor of the page as it encourages them to keep following the social media accounts of the site. 
   - Also included is the contact information for the user.
 
-![Footer](asssets/images/footer.PNG)
+![Footer](assets/images/footer.PNG)
 
 - __Gallery__
 
