@@ -89,15 +89,13 @@ On the homepage users will find informations about the concept of the site as we
 -  No unfixed bugs were found in the project.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
+ 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+  - In the GitHub repository, please navigate to the Settings tab. 
+  - From the source section drop-down menu, please select the Master Branch.
+  - Please refresh the page, afterwards the link should be provided.
+  
+The live link can be found here - https://franzdev8.github.io/five-minutes-fitness/index.html 
 
 
 ## Credits 
