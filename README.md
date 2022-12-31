@@ -69,9 +69,24 @@ On the homepage users will find informations about the concept of the site as we
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+- Accessibility
+  - I confirmed that the chosen fonts and colors are accessable using lighthouse in devtools.
+   
+  - Home page
 
-- Inside the read me file, the picture for community-culture picture for the Body, Mind and Soul section is not visible. 
+  ![Lighthouse Home Page](assets/images/lighthouse-index.PNG) 
+
+  - About Us page
+
+  ![Lighthouse About Us Page](assets/images/lighthouse-about-us.PNG) 
+
+  - Sign Up page
+
+  ![Lighthouse Sign Up Page](assets/images/lighthouse-sign-up.PNG) 
+
+### Bugs
+
+-  No unfixed bugs were found in the project.
 
 ## Deployment
 
