@@ -43,7 +43,7 @@ On the homepage users will find informations about the concept of the site as we
 - __The Sign Up section__ 
 
   - This page gives the user the opportunity to get signed up to Five Minutes Fitness in order to start their personel development. 
-  - It is mandatory to submit the full name and email address.
+  - It is mandatory to submit the full name and a email address.
 
 ![Sign Up](assets/images/sign-up.PNG) 
 
@@ -57,13 +57,11 @@ On the homepage users will find informations about the concept of the site as we
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- It was tested by me that this site works in different browsers: Chrome, Safari and Firefox.
+- I confirmed that the site is responsive and looks good on different devices by using devtools device toolbar.
+- I confirmed that the different pages on the site are all simple to understand and simple to read.
+- I have confirmed that the form works, and also that all input entries except for the textarea element are required. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
