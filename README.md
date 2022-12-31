@@ -6,7 +6,7 @@ The website is aimed at people who want effective and efficient workouts for the
 
 On the homepage users will find informations about the concept of the site as well as an overview about the creators of the self-development service. It is also possible to sign up to the free fitness service from there.
 
-assets/images/am-I-responsive.PNG
+![Responsive](assets/images/am-I-responsive.PNG)
 
 ## Features 
 
@@ -17,21 +17,21 @@ At the right top of the page (when you are looking on a smaller device, beneath 
 Screen shots of logo and menu links are below.
 In the footer on the bottom of the page  are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
 
-assets/images/logo-and-navigation-bar.PNG
+![Navigation](assets/images/logo-and-navigation-bar.PNG)
 
 - __The Landing Page Picture__ 
 
   - The home section of the page includes a image of a woman and a man working out together.
   - The concept of the website is supposed to be made visible by this.
 
-assets/images/hero-image.jpg
+![Hero Image](assets/images/hero-image.jpg)
 
 For your body, mind and soul section
 
 This section provides the informations about the concept and the conditons about the website.
 The explinations of the concept give a detailed about the free fitness-service.
 
-assets/images/community-culture-text.PNG
+ ![Footer](assets/images/community-culture-text.PNG)                                                                   
 
 - __The Footer__ 
 
