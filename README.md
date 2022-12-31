@@ -19,7 +19,7 @@ In the footer on the bottom of the page  are icons for different social media po
 
 assets/images/logo-and-navigation-bar.PNG
 
-The landing page picture
+- __The Landing Page Picture__ 
 
   - The home section of the page includes a image of a woman and a man working out together.
   - The concept of the website is supposed to be made visible by this.
@@ -36,9 +36,10 @@ assets/images/community-culture-text.PNG
 - __The Footer__ 
 
   At the footer there are links to social media sites for Five Minutes Fitness. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is of use for the visitor of the page as it encourages them to keep following the social media accounts of the site. 
+  - Also included is the contact information for the user.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](asssets/images/footer.PNG)
 
 - __Gallery__
 
