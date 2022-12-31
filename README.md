@@ -1,10 +1,10 @@
-## Five Minutes Fitness
+## Five Minutes Fitness   
 
 Five Minutes Fitness is a website providing short workouts for a community with a tight time schedule.
 
-The website is aimed at people who want effective and efficient workouts for the body, mind and soul. All workouts consit of a four minute bodywheight and a one minute mindfullness workout and are sent via link to the user completly for free.
+The website is aimed at people who want effective and efficient workouts for the body, mind and soul. All workouts consist of a four minute bodywheight and a one minute mindfullness workout and are sent via link to the user completely for free.
 
-On the homepage users will find informations about the concept of the site as well as an overview about the creators of the self-development service. It is also possible to sign up to the free fitness service from there.
+On the homepage users will find informations about the concept of the site as well as an overview about the creators of the self-development service. It is also possible to sign up to the free fitness service from there. 
 
 ![Responsive](assets/images/am-I-responsive.PNG)
 
@@ -12,10 +12,10 @@ On the homepage users will find informations about the concept of the site as we
 
 - __Navigation Bar__
 
-- At the left top of the page there is the website logo FIVE MINUTES FITNESS that links to the top of the home page.
-- At the right top of the page (when you are looking on a smaller device, beneath the logo) there are links to Home, About Us and Sign Up. With those you can navigate to different pages on the website. 
+- At the left top of the page is the website logo FIVE MINUTES FITNESS that links to the top of the home page.
+- At the right top of the page (when you are looking on a smaller device, beneath the logo) are links to Home, About Us and Sign Up. With those you can navigate to different pages on the website. 
 - Screen shots of logo and menu links are below.
-- In the footer on the bottom of the page  are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
+- In the footer on the bottom of the page are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
 
 ![Navigation](assets/images/logo-and-navigation-bar.PNG)
 
@@ -35,7 +35,7 @@ On the homepage users will find informations about the concept of the site as we
 
 - __The About Us section__ 
 
- - The information about the anonymous providers of the free fitness-service can be found here. 
+ - Information about the providers of the free fitness-service can be found here. 
  - A detailed explination of the reasons for offering such a usefull service for free are given there as well.
 
 ![About Us](assets/images/about-us.PNG)
