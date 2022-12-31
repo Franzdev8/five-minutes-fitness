@@ -31,7 +31,9 @@ In the footer on the bottom of the page  are icons for different social media po
 This section provides the informations about the concept and the conditons of the website.
 The explinations of the concept give a detailed overview about the free fitness-service.
 
-![Community Culture](assets/images/community-culture-text.PNG)                                                                   
+![Community Culture](assets/images/community-culture-text.PNG)     
+
+
 
 - __The Footer__ 
 
