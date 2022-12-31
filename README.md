@@ -26,12 +26,12 @@ In the footer on the bottom of the page  are icons for different social media po
 
 ![Hero Image](assets/images/hero-image.jpg)
 
-For your body, mind and soul section
+- __The for your Body, Mind and Soul section__ 
 
-This section provides the informations about the concept and the conditons about the website.
-The explinations of the concept give a detailed about the free fitness-service.
+This section provides the informations about the concept and the conditons of the website.
+The explinations of the concept give a detailed overview about the free fitness-service.
 
- ![Footer](assets/images/community-culture-text.PNG)                                                                   
+![Community Culture](assets/images/community-culture-text.PNG)                                                                   
 
 - __The Footer__ 
 
@@ -39,7 +39,7 @@ The explinations of the concept give a detailed about the free fitness-service.
   - The footer is of use for the visitor of the page as it encourages them to keep following the social media accounts of the site. 
   - Also included is the contact information for the user.
 
-![Footer](assets/images/footer.PNG)
+![Footer](assets/images/footer.PNG) 
 
 - __Gallery__
 
@@ -57,10 +57,6 @@ The explinations of the concept give a detailed about the free fitness-service.
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Testing 
 
