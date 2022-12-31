@@ -1,4 +1,4 @@
-Five Minutes Fitness
+## Five Minutes Fitness
 
 Five Minutes Fitness is a website providing short workouts for a community with a tight time schedule.
 
