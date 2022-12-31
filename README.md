@@ -12,10 +12,10 @@ On the homepage users will find informations about the concept of the site as we
 
 - __Navigation Bar__
 
-At the left top of the page there is the website logo FIVE MINUTES FITNESS that links to the top of the home page.
-At the right top of the page (when you are looking on a smaller device, beneath the logo) there are links to Home, About Us and Sign Up. With those you can navigate to different pages on the website. 
-Screen shots of logo and menu links are below.
-In the footer on the bottom of the page  are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
+- At the left top of the page there is the website logo FIVE MINUTES FITNESS that links to the top of the home page.
+- At the right top of the page (when you are looking on a smaller device, beneath the logo) there are links to Home, About Us and Sign Up. With those you can navigate to different pages on the website. 
+- Screen shots of logo and menu links are below.
+- In the footer on the bottom of the page  are icons for different social media portals, these are links that will open the respective social media in a new tab when clicked on.
 
 ![Navigation](assets/images/logo-and-navigation-bar.PNG)
 
@@ -28,12 +28,24 @@ In the footer on the bottom of the page  are icons for different social media po
 
 - __The for your Body, Mind and Soul section__ 
 
-This section provides the informations about the concept and the conditons of the website.
-The explinations of the concept give a detailed overview about the free fitness-service.
+- This section provides the informations about the concept and the conditons of the website.
+- The explinations of the concept give a detailed overview about the free fitness-service.
 
 ![Community Culture](assets/images/community-culture-text.PNG)     
 
+- __The About Us section__ 
 
+ - The information about the anonymous providers of the free fitness-service can be found here. 
+ - A detailed explination of the reasons for offering such a usefull service for free are given there as well.
+
+![About Us](assets/images/about-us.PNG)
+
+- __The Sign Up section__ 
+
+  - This page gives the user the opportunity to get signed up to Five Minutes Fitness in order to start their personel development. 
+  - It is mandatory to submit the full name and email address.
+
+![Sign Up](assets/images/sign-up.PNG) 
 
 - __The Footer__ 
 
@@ -42,23 +54,6 @@ The explinations of the concept give a detailed overview about the free fitness-
   - Also included is the contact information for the user.
 
 ![Footer](assets/images/footer.PNG) 
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ## Testing 
 
